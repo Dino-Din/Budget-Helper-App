@@ -1,0 +1,18 @@
+.error-text {
+    color: red;
+}
+
+.rdt_TableCol {
+    background-color: #00A1BE;
+    font-weight: bold;
+    font-size: medium;
+    color: white
+}
+
+.over-budget {
+    color: red
+}
+
+/* .rdt_TableRow {
+    background-color: #00A1BE;
+} */

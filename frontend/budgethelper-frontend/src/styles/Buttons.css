@@ -1,0 +1,65 @@
+/* PASTEL COLORS:
+blue: 59D5E0
+yellow: F5DD61
+orange: FAA300
+pink: F4538A */
+
+.large-text {
+    font-size: 10em; /* Adjust as needed */
+    margin-bottom: 20px;
+}
+
+:root .btn-primary {
+    color: white;
+    border-color:#00A1BE;
+    background-color: #00A1BE;
+}
+
+:root .btn-outline-primary{
+    color: #00A1BE;
+    border-color:#00A1BE;
+}
+
+:root .btn:hover{
+    color: white;
+    border-color:#0C6774;
+    background-color: #0C6774;
+    
+}
+
+:root .btn-success{
+    color: white;
+    border-color:#00A1BE;
+    background-color: #00A1BE;
+    
+}
+
+:root .btn-reset{
+    color: #00A1BE;
+    border-color:#00A1BE;
+    background-color: white;
+    
+}
+
+:root .btn.show{
+    color: white;
+    border-color:#0C6774;
+    background-color: #0C6774;
+}
+
+:root .btn:first-child:active {
+    color: white;
+    border-color:#0C6774;
+    background-color: #0C6774;
+}
+
+:root :not(.btn-check)+.btn:active{
+    color: white;
+    border-color:#0C6774;
+    background-color: #0C6774;
+}
+
+
+
+
+
